@@ -1,0 +1,59 @@
+{
+    "SactDataList": [
+        {
+            "ID": 101,
+            "IDName": "sac1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 1,
+            "PopiArtis": 0,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "saclar"
+        },
+        {
+            "ID": 102,
+            "IDName": "sac2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 0,
+            "Durum": 0,
+            "Tag": "saclar"
+        },
+        {
+            "ID": 103,
+            "IDName": "sac3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 10,
+            "PopiArtis": 5,
+            "ItemFiyat": 1700,
+            "Durum": 0,
+            "Tag": "saclar"
+        },
+        {
+            "ID": 104,
+            "IDName": "sac4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 13,
+            "PopiArtis": 5,
+            "ItemFiyat": 2900,
+            "Durum": 2,
+            "Tag": "saclar"
+        },
+        {
+            "ID": 105,
+            "IDName": "sac5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 18,
+            "PopiArtis": 5,
+            "ItemFiyat": 4800,
+            "Durum": 0,
+            "Tag": "saclar"
+        }
+    ]
+}

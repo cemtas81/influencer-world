@@ -1,0 +1,114 @@
+{
+    "KiyafetDataList": [
+        {
+            "ID": "kiyafet1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 1,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet6",
+            "ResimID": 5,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 6000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet7",
+            "ResimID": 6,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 7000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet8",
+            "ResimID": 7,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 8000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet9",
+            "ResimID": 8,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 9000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet10",
+            "ResimID": 9,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 10000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        },
+        {
+            "ID": "kiyafet11",
+            "ResimID": 10,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 11000,
+            "Durum": 0,
+            "Tag": "kiyafet"
+        }
+    ]
+}

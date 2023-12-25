@@ -1,0 +1,28 @@
+{
+    "LevelDataList": [
+        {
+            "ID": 1,
+            "ResimID": 0,
+            "ParaArtis": 6,
+            "TakipciArtis": 6,
+            "PopiArtis": 6,
+            "ItemFiyat": 1000
+        },
+        {
+            "ID": 2,
+            "ResimID": 1,
+            "ParaArtis": 7,
+            "TakipciArtis": 7,
+            "PopiArtis": 7,
+            "ItemFiyat": 2000
+        },
+        {
+            "ID": 3,
+            "ResimID": 2,
+            "ParaArtis": 8,
+            "TakipciArtis": 8,
+            "PopiArtis": 8,
+            "ItemFiyat": 3000
+        }
+    ]
+}

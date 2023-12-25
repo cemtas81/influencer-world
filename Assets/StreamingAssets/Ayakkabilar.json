@@ -1,0 +1,114 @@
+{
+    "AyakkabiDataList": [
+        {
+            "ID": 601,
+            "IDName": "ayak1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 1,
+            "PopiArtis": 0,
+            "ItemFiyat": 1,
+            "Durum": 1,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 602,
+            "IDName": "ayak2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 2,
+            "PopiArtis": 5,
+            "ItemFiyat": 0,
+            "Durum": 1,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 603,
+            "IDName": "ayak3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 4,
+            "PopiArtis": 5,
+            "ItemFiyat": 0,
+            "Durum": 1,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 604,
+            "IDName": "ayak4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 7,
+            "PopiArtis": 5,
+            "ItemFiyat": 800,
+            "Durum": 2,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 605,
+            "IDName": "ayak5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 10,
+            "PopiArtis": 5,
+            "ItemFiyat": 920,
+            "Durum": 0,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 606,
+            "IDName": "ayak6",
+            "ResimID": 5,
+            "ParaArtis": 5,
+            "TakipciArtis": 13,
+            "PopiArtis": 5,
+            "ItemFiyat": 1100,
+            "Durum": 0,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 607,
+            "IDName": "ayak7",
+            "ResimID": 6,
+            "ParaArtis": 5,
+            "TakipciArtis": 15,
+            "PopiArtis": 5,
+            "ItemFiyat": 1450,
+            "Durum": 0,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 608,
+            "IDName": "ayak8",
+            "ResimID": 7,
+            "ParaArtis": 5,
+            "TakipciArtis": 16,
+            "PopiArtis": 5,
+            "ItemFiyat": 1700,
+            "Durum": 0,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 609,
+            "IDName": "ayak9",
+            "ResimID": 8,
+            "ParaArtis": 5,
+            "TakipciArtis": 18,
+            "PopiArtis": 5,
+            "ItemFiyat": 2000,
+            "Durum": 0,
+            "Tag": "ayak"
+        },
+        {
+            "ID": 610,
+            "IDName": "ayak10",
+            "ResimID": 9,
+            "ParaArtis": 5,
+            "TakipciArtis": 20,
+            "PopiArtis": 5,
+            "ItemFiyat": 3100,
+            "Durum": 0,
+            "Tag": "ayak"
+        }
+    ]
+}

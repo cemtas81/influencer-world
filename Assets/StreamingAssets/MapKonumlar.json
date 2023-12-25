@@ -1,0 +1,173 @@
+{
+    "KonumDataList": [
+        {
+            "ID": 901,
+            "Name": "Arjantin",
+            "Maliyet": 100,
+            "Boost": 5
+            
+        },
+        {
+            "ID": 902,
+            "Name": "Kanada",
+            "Maliyet": 200,
+            "Boost": 7
+        },
+        {
+            "ID": 903,
+            "Name": "Rusya",
+            "Maliyet": 300,
+            "Boost": 9
+        },
+        {
+            "ID": 904,
+            "Name": "Fas",
+            "Maliyet": 400,
+            "Boost": 11
+        },
+        {
+            "ID": 905,
+            "Name": "Cin",
+            "Maliyet": 500,
+            "Boost": 12
+        },
+        {
+            "ID": 906,
+            "Name": "Brezilya",
+            "Maliyet": 600,
+            "Boost": 13
+        },
+        {
+            "ID": 907,
+            "Name": "Amerika",
+            "Maliyet": 700,
+            "Boost": 14
+        },
+        {
+            "ID": 908,
+            "Name": "Meksika",
+            "Maliyet": 800,
+            "Boost": 15
+        },
+        {
+            "ID": 909,
+            "Name": "Turkiye",
+            "Maliyet": 900,
+            "Boost": 16
+        },
+        {
+            "ID": 910,
+            "Name": "Yunanistan",
+            "Maliyet": 1000,
+            "Boost": 17
+        },
+        {
+            "ID": 911,
+            "Name": "Italya",
+            "Maliyet": 1100,
+            "Boost": 18
+        },
+        {
+            "ID": 912,
+            "Name": "Ispanya",
+            "Maliyet": 1200,
+            "Boost": 19
+        },
+        {
+            "ID": 913,
+            "Name": "Almanya",
+            "Maliyet": 1300,
+            "Boost": 20
+        },
+        {
+            "ID": 914,
+            "Name": "Fransa",
+            "Maliyet": 1400,
+            "Boost": 21
+        },
+        {
+            "ID": 915,
+            "Name": "Ingiltere",
+            "Maliyet": 1500,
+            "Boost": 22
+        },
+        {
+            "ID": 916,
+            "Name": "Isvec",
+            "Maliyet": 1600,
+            "Boost": 23
+        },
+        {
+            "ID": 917,
+            "Name": "GuneyAfrika",
+            "Maliyet": 1700,
+            "Boost": 24
+        },
+        {
+            "ID": 918,
+            "Name": "Cezayir",
+            "Maliyet": 1800,
+            "Boost": 25
+        },
+        {
+            "ID": 919,
+            "Name": "Misir",
+            "Maliyet": 1900,
+            "Boost": 26
+        },
+        {
+            "ID": 920,
+            "Name": "Hindistan",
+            "Maliyet": 2000,
+            "Boost": 27
+        },
+        {
+            "ID": 921,
+            "Name": "Tayland",
+            "Maliyet": 2100,
+            "Boost": 28
+        },
+        {
+            "ID": 922,
+            "Name": "Vietnam",
+            "Maliyet": 2200,
+            "Boost": 29
+        },
+        {
+            "ID": 923,
+            "Name": "Malezya",
+            "Maliyet": 2300,
+            "Boost": 30
+        },
+        {
+            "ID": 924,
+            "Name": "Endonezya",
+            "Maliyet": 2400,
+            "Boost": 31
+        },
+        {
+            "ID": 925,
+            "Name": "Filipinler",
+            "Maliyet": 2500,
+            "Boost": 32
+        },
+        {
+            "ID": 926,
+            "Name": "Avustralya",
+            "Maliyet": 2600,
+            "Boost": 33
+        },
+        {
+            "ID": 927,
+            "Name": "Japonya",
+            "Maliyet": 2700,
+            "Boost": 34
+        },
+        {
+            "ID": 928,
+            "Name": "Panama",
+            "Maliyet": 2800,
+            "Boost": 35
+        }
+    ]
+}

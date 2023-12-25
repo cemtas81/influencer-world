@@ -1,0 +1,114 @@
+{
+    "GovdeDataList": [
+        {
+            "ID": 301,
+            "IDName": "govde1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 1,
+            "PopiArtis": 0,
+            "ItemFiyat": 1,
+            "Durum": 2,
+            "Tag": "govde"
+        },
+        {
+            "ID": 302,
+            "IDName": "govde2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 2,
+            "PopiArtis": 5,
+            "ItemFiyat": 0,
+            "Durum": 1,
+            "Tag": "govde"
+        },
+        {
+            "ID": 303,
+            "IDName": "govde3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 4,
+            "PopiArtis": 5,
+            "ItemFiyat": 700,
+            "Durum": 1,
+            "Tag": "govde"
+        },
+        {
+            "ID": 304,
+            "IDName": "govde4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 0,
+            "Durum": 1,
+            "Tag": "govde"
+        },
+        {
+            "ID": 305,
+            "IDName": "govde5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 7,
+            "PopiArtis": 5,
+            "ItemFiyat": 970,
+            "Durum": 1,
+            "Tag": "govde"
+        },
+        {
+            "ID": 306,
+            "IDName": "govde6",
+            "ResimID": 5,
+            "ParaArtis": 5,
+            "TakipciArtis": 9,
+            "PopiArtis": 5,
+            "ItemFiyat": 1200,
+            "Durum": 0,
+            "Tag": "govde"
+        },
+        {
+            "ID": 307,
+            "IDName": "govde7",
+            "ResimID": 6,
+            "ParaArtis": 5,
+            "TakipciArtis": 10,
+            "PopiArtis": 5,
+            "ItemFiyat": 1450,
+            "Durum": 0,
+            "Tag": "govde"
+        },
+        {
+            "ID": 308,
+            "IDName": "govde8",
+            "ResimID": 7,
+            "ParaArtis": 5,
+            "TakipciArtis": 12,
+            "PopiArtis": 5,
+            "ItemFiyat": 1800,
+            "Durum": 1,
+            "Tag": "govde"
+        },
+        {
+            "ID": 309,
+            "IDName": "govde9",
+            "ResimID": 8,
+            "ParaArtis": 5,
+            "TakipciArtis": 13,
+            "PopiArtis": 5,
+            "ItemFiyat": 1950,
+            "Durum": 0,
+            "Tag": "govde"
+        },
+        {
+            "ID": 310,
+            "IDName": "govde10",
+            "ResimID": 9,
+            "ParaArtis": 5,
+            "TakipciArtis": 15,
+            "PopiArtis": 5,
+            "ItemFiyat": 2350,
+            "Durum": 0,
+            "Tag": "govde"
+        }
+    ]
+}

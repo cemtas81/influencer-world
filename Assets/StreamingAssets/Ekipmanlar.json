@@ -1,0 +1,39 @@
+{
+    "EkipmanDataList": [
+        {
+            "ID": 801,
+            "IDNanem": "Light",
+            "IlkFiyat":100,
+            "FiyatArtis":40,
+            "TakipciArtis":100
+        },
+        {
+            "ID": 802,
+            "IDNanem": "Table",
+            "IlkFiyat":150,
+            "FiyatArtis":70,
+            "TakipciArtis":150
+        },
+        {
+            "ID": 803,
+            "IDNanem": "Chair",
+            "IlkFiyat":80,
+            "FiyatArtis":30,
+            "TakipciArtis":80
+        },
+        {
+            "ID": 804,
+            "IDNanem": "Computer",
+            "IlkFiyat":250,
+            "FiyatArtis":90,
+            "TakipciArtis":150
+        },
+        {
+            "ID": 805,
+            "IDNanem": "Watch",
+            "IlkFiyat":30,
+            "FiyatArtis":20,
+            "TakipciArtis":50
+        }
+    ]
+}

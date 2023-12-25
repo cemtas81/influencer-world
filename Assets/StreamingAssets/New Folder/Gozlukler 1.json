@@ -1,0 +1,64 @@
+{
+    "GozluktDataList": [
+        {
+            "ID": "kafa1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 1,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        },
+        {
+            "ID": "kafa2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        },
+        {
+            "ID": "kafa3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        },
+        {
+            "ID": "kafa4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        },
+        {
+            "ID": "kafa5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        },
+        {
+            "ID": "kafa6",
+            "ResimID": 5,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "kafa"
+        }
+    ]
+}

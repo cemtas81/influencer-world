@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: fecc1faf390ba59439fd5aef054189e2
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 4729521519434640453
+    second: base|base|base|baseAction|base|baseAction
+  - first:
+      74: 349527814247045179
+    second: base|base|base|baseAction|base|baseAction.001
+  - first:
+      74: -365332274240898540
+    second: base|base|base|Computer MouseAction.001|base|Computer MouseAction.00
+  - first:
+      74: -8754571938363766497
+    second: base|base|base|Computer ScreenAction|base|Computer ScreenAction
+  - first:
+      74: -2422266755336310972
+    second: base|base|base|handlesAction|base|handlesAction
+  - first:
+      74: -2882537370278184202
+    second: base|base|base|Kitchen Table WhiteAction|base|Kitchen Table WhiteAct
+  - first:
+      74: 244405037203694003
+    second: base|base|base|Office Chair WhiteAction|base|Office Chair WhiteActio
+  - first:
+      74: -5458390961189436663
+    second: base|base|base|table_1Action|base|table_1Action
+  - first:
+      74: 6024186884882968561
+    second: base|base|base|table_2Action|base|table_2Action
+  - first:
+      74: -2141842976011749950
+    second: base|base|base|Work Table.001Action|base|Work Table.001Action
+  - first:
+      74: 6406320984091333203
+    second: base|base|base|Work TableAction|base|Work TableAction
+  - first:
+      74: -4645819362505703374
+    second: base.001|base|base|baseAction|base|baseAction
+  - first:
+      74: 5652565110884179675
+    second: base.001|base|base|baseAction|base|baseAction.001
+  - first:
+      74: -5673745298080368969
+    second: base.001|base|base|Computer MouseAction.001|base|Computer MouseAction.00
+  - first:
+      74: -7091912291447832454
+    second: base.001|base|base|Computer ScreenAction|base|Computer ScreenAction
+  - first:
+      74: -7966734952441938398
+    second: base.001|base|base|handlesAction|base|handlesAction
+  - first:
+      74: -9040518126403380540
+    second: base.001|base|base|Kitchen Table WhiteAction|base|Kitchen Table WhiteAct
+  - first:
+      74: 3208625132802482058
+    second: base.001|base|base|Office Chair WhiteAction|base|Office Chair WhiteActio
+  - first:
+      74: 5955767672650809334
+    second: base.001|base|base|table_1Action|base|table_1Action
+  - first:
+      74: -2410742649293668952
+    second: base.001|base|base|table_2Action|base|table_2Action
+  - first:
+      74: 7869792357822350852
+    second: base.001|base|base|Work Table.001Action|base|Work Table.001Action
+  - first:
+      74: -149342638205262650
+    second: base.001|base|base|Work TableAction|base|Work TableAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

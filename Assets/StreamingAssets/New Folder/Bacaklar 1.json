@@ -1,0 +1,104 @@
+{
+    "BacakDataList": [
+        {
+            "ID": "bacak1",
+            "ResimID": 0,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 1,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak2",
+            "ResimID": 1,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak3",
+            "ResimID": 2,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak4",
+            "ResimID": 3,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak5",
+            "ResimID": 4,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 1,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak6",
+            "ResimID": 5,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 6000,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak7",
+            "ResimID": 6,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 7000,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak8",
+            "ResimID": 7,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 8000,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak9",
+            "ResimID": 8,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 9000,
+            "Durum": 0,
+            "Tag": "bacak"
+        },
+        {
+            "ID": "bacak10",
+            "ResimID": 9,
+            "ParaArtis": 5,
+            "TakipciArtis": 5,
+            "PopiArtis": 5,
+            "ItemFiyat": 10000,
+            "Durum": 0,
+            "Tag": "bacak"
+        }
+    ]
+}
