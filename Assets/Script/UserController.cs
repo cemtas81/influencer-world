@@ -86,12 +86,10 @@ public class UserController : MonoBehaviour
         writingfield.SetActive(!writingfield.activeInHierarchy);
     }
     // Update is called once per frame
-    void Update()
-    {
-        //control.Hinput = joy.Horizontal;
-        //control.Vinput = joy.Vertical;
-        control.Hinput = Input.GetAxis("Horizontal");
-        control.Vinput = Input.GetAxis("Vertical");
+    //void Update()
+    //{
+    //    control.Hinput = joy.Horizontal;
+    //    control.Vinput = joy.Vertical;
 
-    }
+    //}
 }

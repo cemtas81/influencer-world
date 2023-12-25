@@ -29,13 +29,12 @@ public class UserCar : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        //control.Hinput2 = joy.Horizontal;
-        //control.Vinput2 = joy.Vertical;
-        control.Hinput2 = CrossPlatformInputManager.GetAxis("Horizontal");
-        control.Vinput2= CrossPlatformInputManager.GetAxis("Vertical");
-    }
+    //void Update()
+    //{
+    //    control.Hinput2 = joy.Horizontal;
+    //    control.Vinput2 = joy.Vertical;
+
+    //}
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag=="detection")
