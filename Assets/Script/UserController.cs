@@ -88,7 +88,10 @@ public class UserController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        control.Hinput = joy.Horizontal;
-        control.Vinput = joy.Vertical ;
+        //control.Hinput = joy.Horizontal;
+        //control.Vinput = joy.Vertical;
+        control.Hinput = Input.GetAxis("Horizontal");
+        control.Vinput = Input.GetAxis("Vertical");
+
     }
 }
