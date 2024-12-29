@@ -20769,6 +20769,21 @@ PrefabInstance:
       propertyPath: m_JumpPower
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 1410445974986388657, guid: 9158c24e2e3a64e499644ffc49075f99,
+        type: 3}
+      propertyPath: m_GravityMultiplier
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1410445974986388657, guid: 9158c24e2e3a64e499644ffc49075f99,
+        type: 3}
+      propertyPath: m_GroundCheckDistance
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1410445974986388810, guid: 9158c24e2e3a64e499644ffc49075f99,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1410854843286859211, guid: 9158c24e2e3a64e499644ffc49075f99,
         type: 3}
       propertyPath: m_IsActive
